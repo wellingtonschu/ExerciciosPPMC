@@ -6,7 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * Created by lucas on 18/02/17.
+ * Created by welli on 18/02/17.
  */
 public class GUI {
 

@@ -3,7 +3,7 @@ package Lista01.Ex01;
 import javax.swing.*;
 
 /**
- * Created by lucas on 18/02/17.
+ * Created by welli on 18/02/17.
  */
     public class Contador implements Runnable {
 
